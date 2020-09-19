@@ -3,7 +3,7 @@
 I didn't realize *Sublime Text* existed. It is such an interesting tool
 
 ## My Shopping List
-* Tomatoes **the ugly looking ones.** I think they're called heirlooms
+* Tomatoes (**the ugly looking ones**) I think they're called heirlooms
 * Eggs
 * Almond milk
 
