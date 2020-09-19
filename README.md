@@ -2,7 +2,7 @@
 
 I didn't realize *Sublime Text* existed. It is such an interesting tool
 
-##My Shopping List
+## My Shopping List
 * Tomatoes **the ugly looking ones**
 * Eggs
 * Almond milk
