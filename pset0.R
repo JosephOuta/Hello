@@ -1,5 +1,10 @@
 print("hi there world")
 
-60*24*7
+min <- 60*24*7
+min
 
-#That is the number of minutes in a week
+Above <- c("This refers to the number of minutes in a week")
+Above
+
+sqrt(25)
+
